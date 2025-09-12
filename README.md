@@ -23,6 +23,3 @@ Debugging my way to success
 <a href="https://www.x.com/https://x.com/ansari_tab94727" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/https://x.com/ansari_tab94727?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
-
-<a href="https://github.com/https://github.com/tabisg?tab=followers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tabisg?tab=followers&langs_count=10&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
